@@ -5,8 +5,7 @@ package OOPMiniProject;
 * and makes relevant adjustments*/
 
 public class ActionMovie extends Movie {
-        private String star;
-        private String subgenre;
+
 
         public class ActionMovie {
 

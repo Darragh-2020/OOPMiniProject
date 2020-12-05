@@ -63,7 +63,6 @@ public class Movie {
         return price;
     }
 
-    @Override
     public String toString() {
         return "\nTitle: " + getTitle() + "\nDirector: " + getDirector() +
         "\nGenre: " + getGenre() + "\nRuntime: " + getRuntime() + "\nPrice: " + getPrice();
